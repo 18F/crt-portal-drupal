@@ -1,6 +1,8 @@
 # DOJ CRT Portal
 
-A Civil Rights complaints portal built using the Acquia [BLT](https://github.com/acquia/blt) Drupal stack. BLT is a template and tool for building, testing, and deploying Drupal from Acquia.
+This was for a prototype of [civilrights.justice.gov] for the current codebase at: https://github.com/usdoj-crt/crt-portal 
+
+A Civil Rights complaints portal prototype built using the Acquia [BLT](https://github.com/acquia/blt) Drupal stack. BLT is a template and tool for building, testing, and deploying Drupal from Acquia.
 
 # Acquia Cloud and git setup
 
